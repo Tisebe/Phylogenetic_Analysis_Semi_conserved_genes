@@ -1,0 +1,2 @@
+# Phylogenetic_Analysis_Semi_conserved_genes
+Analysis of P. falciparum semi-conserved genes_Surfins_PHIST_FIKK_AcylCoA_Hypothetical to identify evolutionary relationships.
